@@ -1,0 +1,5 @@
+package com.emp_mang.backend;
+
+public class WebConfig {
+
+}
